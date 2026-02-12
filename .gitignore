@@ -1,0 +1,14 @@
+# build outputs
+/build/
+/build-*/
+/cmake-build-*/
+/out/
+/.private/
+
+
+# python venvs
+.venv/
+venv/
+.env/
+
+.DS_Store
